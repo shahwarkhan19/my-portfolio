@@ -1,0 +1,5 @@
+in order to change the information/details in website 
+you just have to enter the details in portfolioData.js file
+you don't have to write code
+
+file location: src/data/portfolioData.js
